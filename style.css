@@ -1,0 +1,17 @@
+button {
+    padding: 10px;
+    background: #76b39d;
+    color: #f9f8eb;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    outline: none;
+    margin: 10px;  
+    border: none;
+    border-bottom: 5px solid #155e63;
+    border-radius: 10px;
+}
+
+button:active {
+    border-bottom: none;
+    transform: translate(0, 3px);
+}
